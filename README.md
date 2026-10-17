@@ -1,38 +1,48 @@
-<div align="center">
+<h1 align="center">Reza</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%27m%20Reza%2C%20a%20Web%20Developer&descAlignY=60)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF6EC7&center=true&width=650&lines=%F0%9F%92%BB+I+build+things+for+the+web;%F0%9F%8E%A8+Pixels+%26+performance+lover;%E2%98%95+Powered+by+coffee+%26+code)
-
-![Visitors](https://komarev.com/ghpvc/?username=rezabhhhh&style=flat-square&color=ff69b4)
-
-</div>
-
-## 🌟 About Me
-- 👨‍💻 Web developer crafting fast, responsive and fun web apps
-- 🎯 Obsessed with clean code and great UX
-- 😅 Fun fact: I debug with `console.log`
-
-## 🧰 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,go,git,figma" />
+  Web developer · JavaScript & Python<br/>
+  <sub>I vibe code: turning ideas into polished products fast with AI-assisted development</sub>
 </p>
 
-## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rezabhhhh&theme=onedark&no-frame=true&row=1&column=6" />
+  <a href="https://t.me/YOUR_TELEGRAM_ID">Telegram</a> &nbsp;·&nbsp;
+  <a href="mailto:YOUR_EMAIL">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/rezabhhhh?tab=repositories">Repositories</a>
 </p>
 
-## 📈 Stats
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezabhhhh&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezabhhhh&layout=compact&theme=radical" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezabhhhh/rezabhhhh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezabhhhh/rezabhhhh/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/rezabhhhh/rezabhhhh/output/github-snake.svg" />
+  </picture>
 </p>
 
-## 📫 Find Me
-<p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_ID"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/rezabhhhh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+### About
+
+I build web products end to end, from interface to logic to deployment.
+My workflow is AI-assisted: I define the idea, guide the code, review the result
+and iterate until it feels right. I care about clean design, smooth interaction
+and shipping things that actually work.
+
+### Stack
+
+| | |
+|---|---|
+| **Languages** | JavaScript, Python |
+| **Frontend** | React, Vite, Tailwind CSS, Three.js |
+| **Backend** | Node.js |
+| **Tools** | Git, GitHub Actions, AI coding assistants |
+
+### Selected work
+
+| Project | Description |
+|---|---|
+| [Project One](https://github.com/rezabhhhh/REPO_ONE) | One clear sentence about what it does |
+| [Project Two](https://github.com/rezabhhhh/REPO_TWO) | One clear sentence about what it does |
+| [Project Three](https://github.com/rezabhhhh/REPO_THREE) | One clear sentence about what it does |
